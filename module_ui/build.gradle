@@ -1,0 +1,20 @@
+dependencies {
+//    implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc'
+//    implementation 'org.postgresql:r2dbc-postgresql'
+
+//    implementation 'org.springframework.boot:spring-boot-starter-data-redis-reactive'
+//    implementation 'org.springframework.boot:spring-boot-starter-cache'
+//
+//    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+//
+//    implementation "org.mapstruct:mapstruct:${mapstructVersion}"
+//    annotationProcessor "org.mapstruct:mapstruct-processor:${mapstructVersion}"
+//
+//    testImplementation 'org.springframework.boot:spring-boot-testcontainers'
+//    testImplementation platform("org.testcontainers:testcontainers-bom:${testcontainersVersion}")
+//    testImplementation 'org.testcontainers:testcontainers'
+//    testImplementation 'org.testcontainers:junit-jupiter'
+//    testImplementation 'com.redis:testcontainers-redis:2.2.4'
+//
+//    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
+}
