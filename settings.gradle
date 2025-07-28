@@ -20,3 +20,10 @@ pluginManagement {
 
 rootProject.name = 'bank'
 include 'module_ui'
+include 'module_accounts'
+include 'module_cash'
+include 'module_notifications'
+include 'module_blocker'
+include 'module_transfer'
+include 'module_exchange'
+include 'module_generator'
